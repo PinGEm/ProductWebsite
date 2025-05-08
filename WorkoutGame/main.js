@@ -134,7 +134,7 @@ function BuyEndurance(){
 }
 
 function BuyAdrenaline(){
-    if(canBuy(50) == true)
+    if(canBuy(200) == true)
         {
             // allow purchase
             console.log("you can buy");
